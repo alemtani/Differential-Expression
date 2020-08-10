@@ -2,9 +2,9 @@
 This project will explore the differential expression of the *in vivo* and *in vitro* transcriptomes of the bacteria *B. pertussis*, a disease that causes whooping cough.
 
 There will be three parts to the project:
-1. [Introduction]: Setup raw data of transcripts
-2. [Sequence]: Filter out garbage reads, align reads to reference transcriptome and get read counts
-3. [Data Analysis]: Create PCA and heatmap to visualize data and differential expression
+1. [Introduction](https://github.com/alemtani/Differential-Expression/blob/master/Infection%20Transcriptome%20-%20Introduction.ipynb): Setup raw data of transcripts
+2. [Sequence](https://github.com/alemtani/Differential-Expression/blob/master/Infection%20Transcriptome%20-%20Sequence.ipynb): Filter out garbage reads, align reads to reference transcriptome and get read counts
+3. [Data Analysis](https://github.com/alemtani/Differential-Expression/blob/master/Infection%20Transcriptome%20-%20Data%20Analysis.ipynb): Create PCA and heatmap to visualize data and differential expression
 
 ## Bibliography
 This project would not have been possible without the following sources:
